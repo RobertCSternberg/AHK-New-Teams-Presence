@@ -18,6 +18,4 @@ Note: If the .ahk file is located in a protected directory, you must run it as a
 
 
 # Credits
-- Credit to [cjsmile999](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=75896&sid=f6e2b86cd0ec8262c29d58e99906d3f7) on the AHK forums for the starter code for the log tailer.
-
 - Credit to [ajobbins](https://github.com/ajobbins/AHK-Teams-Presence) for the Microsoft Teams Classic implementation that I used for a year or more before Microsoft Teams New was released. While this project is not built to support home automation, it can be forked easily to accomplish that goal. 
