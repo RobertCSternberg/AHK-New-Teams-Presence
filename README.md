@@ -3,7 +3,7 @@
 > At this stage, the project will not be updated to support Microsoft Teams Classic, but pull requests are welcome.
 
 # AHK-New-Teams-Presence
-AutoHotKey Script for reading MS Team status from log file and taking an action based on the status received.  
+AutoHotKey Script for reading MS Team status from log file and taking an action based on the status received.  Used for automated diagnostics ex: active input device (microphone and speaker active, do not disturb enabled, etc. )
 
 # Setup
 When you first run the script, a configuration file (Settings.ini) will be automatically generated in the same folder as the .ahk file. This file requires you to specify the path to your log file, as it varies for each user. To locate your log file path, navigate to the following directory:
